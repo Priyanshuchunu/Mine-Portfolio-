@@ -296,7 +296,7 @@ width:100%;
     
 }
     
-.nptel h2, .udemy-1 h2, .udemy-2 h2, .udemy-3 h2, .hackathon h2 {
+.nptel a, .udemy-1 a, .udemy-2 a, .udemy-3 a, .hackathon a {
     text-align: center;
     padding: 10px;
     font-size: 40px;
@@ -309,14 +309,10 @@ width:100%;
         align-items: center;
         justify-content: center;
     }
-    .nptel a, .udemy-1 a, .udemy-2 a, .udemy-3 a, .hackathon a {
-        font-size: 0.9rem;
-        align-items: center;
-        justify-content: center;
-    }
+    
     .course-images img{
         display: none;
-    };
+    }
 }
 .project {
     padding-bottom: 10rem;
