@@ -322,6 +322,10 @@ width:100%;
     padding-bottom: 10rem;
 }
 
+.project {
+    padding-bottom: 10rem;
+}
+
 .project h2 {
     margin-bottom: 4rem;
     text-align: center; 
@@ -335,6 +339,8 @@ width:100%;
     gap: 2.5rem;
     justify-content: center; 
 }
+
+
 
 .project-container .project-box {
     position: relative;
