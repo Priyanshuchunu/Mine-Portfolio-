@@ -296,7 +296,7 @@ width:100%;
     
 }
     
-.nptel a, .udemy-1 a, .udemy-2 a, .udemy-3 a, .hackathon a {
+.nptel a, .udemy-1 a, .udemy-2 a, .udemy-3 a, .hackathon a{
     text-align: center;
     padding: 10px;
     font-size: 40px;
@@ -306,6 +306,11 @@ width:100%;
 @media (max-width: 600px) {
     .heading {
         font-size: 1rem;
+        align-items: center;
+        justify-content: center;
+    }
+    .nptel a, .udemy-1 a, .udemy-2 a, .udemy-3 a, .hackathon a {
+        font-size: 0.9rem;
         align-items: center;
         justify-content: center;
     }
